@@ -23,7 +23,7 @@ const Blog = () => {
   return (
     <div>
       <Header />
-      <Link className="blog-goBack" to="/">
+      <Link className="blog-voltar" to="/">
         Voltar
       </Link>
 
